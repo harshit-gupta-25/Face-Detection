@@ -35,6 +35,7 @@ To understand how the haar cascade classifier work and how will that be used for
 
 - Python
 - OpenCV
+- Haarcascade frontalface default.xml(already attached above)
 
 # STEPS TO RUN IT!
 
